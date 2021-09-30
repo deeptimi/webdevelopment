@@ -1,2 +1,4 @@
 ### WEB DEVELOPMENT 
 * html
+* javascript
+* 
